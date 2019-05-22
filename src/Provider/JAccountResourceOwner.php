@@ -1,6 +1,6 @@
-<?php namespace League\OAuth2\Client\Provider;
+<?php namespace feynixs\OAuth2\Client\Provider;
 
-use League\OAuth2\Client\Tool\ArrayAccessorTrait;
+use feynixs\OAuth2\Client\Tool\ArrayAccessorTrait;
 
 class JAccountResourceOwner implements ResourceOwnerInterface
 {

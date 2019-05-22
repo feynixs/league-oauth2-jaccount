@@ -1,5 +1,5 @@
 {
-    "name": "league/oauth2-jaccount",
+    "name": "feynixs/oauth2-jaccount",
     "description": "Jaccount OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "require": {
@@ -12,12 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "League\\OAuth2\\Client\\": "src/"
-        }
-    },
-    "autoload-dev": {
-        "psr-4": {
-            "League\\OAuth2\\Client\\Test\\": "test/src/"
+            "feynixs\\OAuth2\\Client\\": "src/"
         }
     }
 }
